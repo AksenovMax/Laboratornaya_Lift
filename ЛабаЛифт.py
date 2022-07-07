@@ -2,7 +2,7 @@ from tkinter import *
 import telebot
 from threading import Thread
 
-TOKEN = "5180806406:AAFWKuw_9kJItZWXEQWGvbAip-ip5q0lA-s"
+TOKEN = ""
 
 bott = telebot.TeleBot(TOKEN)
 
